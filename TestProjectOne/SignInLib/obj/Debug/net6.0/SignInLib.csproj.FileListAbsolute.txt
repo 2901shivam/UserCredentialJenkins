@@ -1,0 +1,11 @@
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day3\TestProjectOne\SignInLib\bin\Debug\net6.0\SignInLib.deps.json
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day3\TestProjectOne\SignInLib\bin\Debug\net6.0\SignInLib.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day3\TestProjectOne\SignInLib\bin\Debug\net6.0\SignInLib.pdb
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.AssemblyInfoInputs.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.AssemblyInfo.cs
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.csproj.CoreCompileInputs.cache
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day3\TestProjectOne\SignInLib\obj\Debug\net6.0\refint\SignInLib.dll
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day3\TestProjectOne\SignInLib\obj\Debug\net6.0\SignInLib.pdb
+C:\Users\shiva\OneDrive\Desktop\mphasis-b2\Phase3\day3\TestProjectOne\SignInLib\obj\Debug\net6.0\ref\SignInLib.dll
